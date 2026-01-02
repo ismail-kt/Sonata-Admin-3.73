@@ -8,5 +8,6 @@ This repository's long-form documentation has been split into smaller topic file
 - docs/controllers.md — CRUDController customization and controller binding
 - docs/lifecycle.md — lifecycle hooks and best-practice guidance
 - docs/security.md — security configuration, batch actions, and compatibility notes
+- docs/overall.md — Overall documentation together
 
 For quick reference, consult the respective files in `docs/`. For deeper examples and API signatures, refer to Sonata Admin 3.73 official docs.
